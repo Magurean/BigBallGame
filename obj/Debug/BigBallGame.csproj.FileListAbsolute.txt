@@ -1,0 +1,7 @@
+C:\Users\Andrei\source\repos\BigBallGame\bin\Debug\BigBallGame.exe.config
+C:\Users\Andrei\source\repos\BigBallGame\bin\Debug\BigBallGame.exe
+C:\Users\Andrei\source\repos\BigBallGame\bin\Debug\BigBallGame.pdb
+C:\Users\Andrei\source\repos\BigBallGame\obj\Debug\BigBallGame.csprojAssemblyReference.cache
+C:\Users\Andrei\source\repos\BigBallGame\obj\Debug\BigBallGame.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\BigBallGame\obj\Debug\BigBallGame.exe
+C:\Users\Andrei\source\repos\BigBallGame\obj\Debug\BigBallGame.pdb
